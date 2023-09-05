@@ -28,6 +28,13 @@ Um componente de classificação interativa. Feito com HTML e CSS.
 
 [Veja o Projeto 3](interactive-rating-component)
 
+### Projeto 4: product-preview-card-component
+Um componente de cartão de visualização de produto. Feito com HTML e CSS.
+
+![Captura de Tela do Projeto 3](product-preview-card-component/public/design/desktop-design.jpg)
+![Captura de Tela do Projeto 3](product-preview-card-component/public/design/mobile-design.jpg)
+
+[Veja o Projeto 3](product-preview-card-component)
 
 ## Contribuição
 
