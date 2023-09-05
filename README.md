@@ -4,19 +4,21 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará uma coleção de
 
 ## Projetos
 
-### Projeto 1: Blog Pessoal
-Uma aplicação web onde compartilho artigos sobre tecnologia. Desenvolvida usando HTML, CSS e JavaScript.
+### Projeto 1: 3 column preview card component
+Uma demonstração de um componente de cartão de três colunas. Feito com HTML e CSS.
 
-![Captura de Tela do Projeto 1](screenshots/projeto1.png)
+![Captura de Tela do Projeto 1](3-column%20preview%20card%20component/public/screenshots/desktop-design.png)
+![Captura de Tela do Projeto 1](3-column%20preview%20card%20component/public/screenshots/mobile-design.png)
 
-[Veja o Projeto 1](projeto1/)
+[Veja o Projeto 1](3-column%20preview%20card%20component)
 
-### Projeto 2: Calculadora de Despesas
-Uma aplicação de calculadora de despesas que ajuda a rastrear e gerenciar suas finanças. Feita com React e Firebase.
+### Projeto 2: results-summary-component
+Um componente de resumo de resultados. Feito com HTML e CSS.
 
-![Captura de Tela do Projeto 2](screenshots/projeto2.png)
+![Captura de Tela do Projeto 2](results-summary-component/public/design/desktop-design.jpg)
+![Captura de Tela do Projeto 2](results-summary-component/public/design/mobile-design.jpg)
 
-[Veja o Projeto 2](projeto2/)
+[Veja o Projeto 2](results-summary-component)
 
 ### Projeto 3: App de Tarefas
 Um aplicativo simples de lista de tarefas para manter o controle das suas atividades diárias. Construído usando Vue.js.
