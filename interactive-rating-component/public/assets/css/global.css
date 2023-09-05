@@ -1,0 +1,11 @@
+:root {
+  --background: #141519;
+  --background-circle: #2f3942;
+  --white: #fff;
+  --white-opacity: rgba(255, 255, 255, 0.6);
+  --back-btn: #61728d;
+
+  --button: #fc7613;
+
+  --attribuition: hsl(228, 45%, 44%);
+}

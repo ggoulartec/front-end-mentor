@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+@import url(global.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: var(--background);
+}
+
+/* ==== Rating state start */
+.container__rating {
+  width: 480px;
+  height: 420px;
+  padding: 30px;
+  background: #212832;
+  border-radius: 30px;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+  display: inline-flex;
+}
+
+.star {
+  width: 45px;
+  height: 45px;
+  background: #2f3942;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content h2 {
+  color: var(--white);
+  font-weight: normal;
+  letter-spacing: 1px;
+}
+
+.content p {
+  color: var(--white-opacity);
+  margin-top: 10px;
+  font-weight: normal;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 25px;
+}
+
+.rating {
+  width: 100%;
+  font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.rating .item {
+  color: var(--white-opacity);
+  width: 60px;
+  height: 60px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: var(--background-circle);
+}
+
+.rating .item:hover {
+  background: var(--button);
+  color: var(--white);
+  cursor: pointer;
+}
+
+.selected {
+  background-color: var(--white-opacity);
+  color: var(--white-opacity);
+}
+
+.rating .item.selected {
+  background-color: var(--white-opacity);
+  color: white;
+}
+
+button {
+  margin-top: 20px;
+  width: 100%;
+  border: none;
+  height: 45px;
+  text-transform: uppercase;
+  font-size: 20px;
+  letter-spacing: 2px;
+  background: var(--button);
+  color: var(--white);
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+
+button:hover {
+  background-color: var(--white);
+  color: var(--button);
+  transition: 0.5s ease;
+}
+/* ==== Rating state end */
+
+/* ==== Thank you state start */
+.container__thank-you {
+  width: 480px;
+  height: 420px;
+  padding: 30px;
+  background: #212832;
+  border-radius: 30px;
+  overflow: hidden;
+}
+
+.content__thank-you {
+  display: grid;
+  justify-items: center;
+  height: 100%;
+}
+
+.selected-rating p {
+  background: var(--background-circle);
+  border-radius: 20px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  font-weight: normal;
+  color: var(--button);
+  margin-top: 15px;
+}
+
+.container__thank-you h2 {
+  color: var(--white);
+}
+
+.container__thank-you .text {
+  color: var(--white-opacity);
+  font-size: 16px;
+  text-align: center;
+}
+/* ==== Thank you state end */
+
+.attribution {
+  font-size: 11px;
+  align-items: center;
+  bottom: 0;
+  position: absolute;
+  color: var(--white-opacity);
+}
+.attribution a {
+  color: var(--attribuition);
+  text-decoration: none;
+}

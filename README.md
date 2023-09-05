@@ -20,12 +20,13 @@ Um componente de resumo de resultados. Feito com HTML e CSS.
 
 [Veja o Projeto 2](results-summary-component)
 
-### Projeto 3: App de Tarefas
-Um aplicativo simples de lista de tarefas para manter o controle das suas atividades diárias. Construído usando Vue.js.
+### Projeto 3: interactive-rating-component
+Um componente de classificação interativa. Feito com HTML e CSS.
 
-![Captura de Tela do Projeto 3](screenshots/projeto3.png)
+![Captura de Tela do Projeto 3](interactive-rating-component/public/design/desktop-design.jpg)
+![Captura de Tela do Projeto 3](interactive-rating-component/public/design/mobile-design.jpg)
 
-[Veja o Projeto 3](projeto3/)
+[Veja o Projeto 3](interactive-rating-component)
 
 
 ## Contribuição
