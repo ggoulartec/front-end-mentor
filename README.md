@@ -42,7 +42,7 @@ Um componente de código QR. Feito com HTML e CSS.
 ![Captura de Tela do Projeto 3](qr-code-component/public/design/desktop-design.jpg)
 ![Captura de Tela do Projeto 3](qr-code-component/public/design/mobile-design.jpg)
 
-[Veja o Projeto 4](product-preview-card-component)
+[Veja o Projeto 5](product-preview-card-component)
 
 ## Contribuição
 
