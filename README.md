@@ -34,7 +34,15 @@ Um componente de cartão de visualização de produto. Feito com HTML e CSS.
 ![Captura de Tela do Projeto 3](product-preview-card-component/public/design/desktop-design.jpg)
 ![Captura de Tela do Projeto 3](product-preview-card-component/public/design/mobile-design.jpg)
 
-[Veja o Projeto 3](product-preview-card-component)
+[Veja o Projeto 4](product-preview-card-component)
+
+### Projeto 5: qr-code-component
+Um componente de código QR. Feito com HTML e CSS.
+
+![Captura de Tela do Projeto 3](qr-code-component/public/design/desktop-design.jpg)
+![Captura de Tela do Projeto 3](qr-code-component/public/design/mobile-design.jpg)
+
+[Veja o Projeto 4](product-preview-card-component)
 
 ## Contribuição
 
