@@ -18,14 +18,14 @@ body {
 /* ==== Colors ==== */
 :root {
   --red: #ff4f4f;
-  --red-clean: rgba(255, 140, 140, 0.5);
+  --red-clean: rgba(255, 140, 140, 0.1);
   --yellow: #ffc700;
-  --yellow-clean: rgba(255, 219, 77, 0.5);
+  --yellow-clean: rgba(255, 219, 77, 0.1);
   --green: #1cd1a1;
-  --green-clean: rgba(110, 231, 183, 0.5);
+  --green-clean: rgba(110, 231, 183, 0.1);
   --blue: #007aff;
-  --blue-clean: rgba(77, 169, 255, 0.5);
-  --button: #674dd9;
+  --blue-clean: rgba(77, 169, 255, 0.1);
+  --button: #303b59;
 }
 
 /* ==== End Colors ==== */
