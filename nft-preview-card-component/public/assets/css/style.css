@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: #0d1a2d;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+main {
+  height: 600px;
+  width: 350px;
+  padding: 20px;
+  background: #15273f;
+  border-radius: 10px;
+  -webkit-box-shadow: 0 20px 100px 12px rgba(12, 23, 41, 1);
+  -moz-box-shadow: 0 20px 100px 12px rgba(12, 23, 41, 1);
+  box-shadow: 0 20px 100px 12px rgba(12, 23, 41, 1);
+}
+
+.imagem-container {
+  position: relative;
+  display: inline-block;
+}
+
+.imagem-container img {
+  max-width: 100%;
+  border-radius: 10px;
+  height: auto;
+  display: block;
+}
+
+.imagem-container::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: background-color 0.3s ease, opacity 0.3s ease;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.imagem-container::after {
+  font-family: 'fontawesome', serif;
+  content: '\f06e';
+  color: #ffffff;
+  position: absolute;
+  top: 50%;
+  opacity: 0;
+  transition: background-color 0.3s ease, opacity 0.3s ease;
+  border-radius: 10px;
+  left: 48%;
+  scale: 2.5;
+  cursor: pointer;
+}
+
+.imagem-container:hover::before {
+  border-radius: 10px;
+  background-color: rgba(58, 202, 201, 0.5);
+  opacity: 1;
+}
+
+.imagem-container:hover::after {
+  opacity: 1;
+}
+
+main h2 {
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.3em;
+  margin: 20px 0;
+}
+
+main h2:hover {
+  color: #3acac9;
+  cursor: pointer;
+}
+
+main p {
+  color: #879cb8;
+  font-size: 1em;
+}
+
+main hr {
+  opacity: 0.1;
+}
+
+.card p {
+  font-family: 'Poppins', sans-serif;
+  margin: 15px 0;
+  font-size: 1em;
+}
+
+.card .info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.info .num,
+.info .days {
+  display: flex;
+  width: 110px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.info .num span,
+.info .days span {
+  margin-left: 10px;
+  font-size: 1em;
+}
+
+.info .num span {
+  color: #3acac9;
+  font-weight: bold;
+}
+
+.info .num img {
+  width: 10%;
+}
+
+.info .days img {
+  width: 15%;
+}
+
+.info .days span {
+  color: #879cb8;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+}
+
+.card .profile {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 15px 0;
+}
+
+.profile .profile_img {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  border: 1px solid white;
+}
+
+.profile_img img {
+  width: 100%;
+  height: auto;
+}
+
+.profile p {
+  font-weight: 500;
+  margin-left: 20px;
+  font-size: 1em;
+}
+
+.profile span {
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1em;
+}
+
+.profile span:hover {
+  color: #3acac9;
+  cursor: pointer;
+}
+
+@media (max-width: 414px) {
+  main {
+    height: auto;
+    width: 90%;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  color: #fff;
+  font-size: 0.7em;
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+  color: #3acac9;
+}

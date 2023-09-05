@@ -31,18 +31,26 @@ Um componente de classificação interativa. Feito com HTML e CSS.
 ### Projeto 4: product-preview-card-component
 Um componente de cartão de visualização de produto. Feito com HTML e CSS.
 
-![Captura de Tela do Projeto 3](product-preview-card-component/public/design/desktop-design.jpg)
-![Captura de Tela do Projeto 3](product-preview-card-component/public/design/mobile-design.jpg)
+![Captura de Tela do Projeto 4](product-preview-card-component/public/design/desktop-design.jpg)
+![Captura de Tela do Projeto 4](product-preview-card-component/public/design/mobile-design.jpg)
 
 [Veja o Projeto 4](product-preview-card-component)
 
 ### Projeto 5: qr-code-component
 Um componente de código QR. Feito com HTML e CSS.
 
-![Captura de Tela do Projeto 3](qr-code-component/public/design/desktop-design.jpg)
-![Captura de Tela do Projeto 3](qr-code-component/public/design/mobile-design.jpg)
+![Captura de Tela do Projeto 5](qr-code-component/public/design/desktop-design.jpg)
+![Captura de Tela do Projeto 5](qr-code-component/public/design/mobile-design.jpg)
 
 [Veja o Projeto 5](qr-code-component)
+
+### Projeto 6: nft-preview-card-component
+Um componente de cartão de visualização de NFT. Feito com HTML e CSS.
+
+![Captura de Tela do Projeto 6](nft-preview-card-component/public/design/desktop-design.jpg)
+![Captura de Tela do Projeto 6](nft-preview-card-component/public/design/mobile-design.jpg)
+
+[Veja o Projeto 6](nft-preview-card-component)
 
 ## Contribuição
 
