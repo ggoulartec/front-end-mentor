@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700;9..144,800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f3eae3;
+}
+
+#main-container {
+  display: flex;
+  justify-content: center;
+  width: 650px;
+  height: 500px;
+}
+
+/* Container Left start */
+#main-container .container_left {
+  width: 100%;
+  height: 100%;
+}
+
+#main-container .container_left img {
+  height: 100%;
+  object-fit: cover;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+/* Container Left end */
+
+/* Container Right start */
+#main-container .container_right {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #fff;
+  padding: 40px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+#main-container .container_right h1 {
+  font-family: "Fraunces", serif;
+  font-weight: 800;
+  line-height: 30px;
+}
+
+#main-container .container_right h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.4em;
+}
+
+#main-container .container_right p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: #525257;
+  line-height: 22px;
+}
+
+.container_right .price {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.price .value1 {
+  font-family: "Fraunces", serif;
+  font-size: 35px;
+  font-weight: bold;
+  color: #3d8168;
+}
+
+.price .value2 {
+  margin-left: 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: line-through;
+  color: #525257;
+  font-size: 14px;
+}
+
+.buy {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #3e846a;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  font-weight: 500;
+  border-radius: 7px;
+  font-size: 14px;
+}
+
+.buy:hover {
+  background-color: #1a4031;
+  cursor: pointer;
+}
+
+.buy img {
+  margin-right: 10px;
+}
+/* Container Right end */
+@media (max-width: 658px) {
+  #main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 361px;
+    height: 100%;
+  }
+
+  #main-container .container_left {
+    height: 290px;
+  }
+
+  #main-container .container_left img {
+    width: 100%;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 10px;
+  }
+
+  #main-container .container_right {
+    height: 400px;
+    padding: 35px;
+  }
+
+  .attribution {
+    display: none;
+  }
+}
+
+/* Resonsivity */
+
+
+.attribution {
+  position: absolute;
+  bottom: 0;
+  font-size: 12px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+}
