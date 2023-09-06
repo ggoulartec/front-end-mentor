@@ -52,6 +52,14 @@ Um componente de cartão de visualização de NFT. Feito com HTML e CSS.
 
 [Veja o Projeto 6](nft-preview-card-component)
 
+### Projeto 7: order-summary-component
+Um componente de resumo de pedido. Feito com HTML e CSS.
+
+![Captura de Tela do Projeto 7](order-summary-component/public/design/desktop-design.jpg)
+![Captura de Tela do Projeto 7](order-summary-component/public/design/mobile-design.jpg)
+
+[Veja o Projeto 7](order-summary-component)
+
 ## Contribuição
 
 Sinta-se à vontade para abrir problemas (issues) e enviar pull requests se desejar contribuir para algum dos projetos. Toda ajuda é bem-vinda!
