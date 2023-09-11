@@ -68,6 +68,14 @@ Um componente de cartão de visualização de estatísticas. Feito com HTML e CS
 
 [Veja o Projeto 8](stats-preview-card-component)
 
+### Projeto 9: profile-card-component
+Um componente de cartão de perfil. Feito com HTML e CSS.
+
+![Captura de Tela do Projeto 9](profile-card-component/public/design/desktop-design.jpg)
+![Captura de Tela do Projeto 9](profile-card-component/public/design/mobile-design.jpg)
+
+[Veja o Projeto 9](profile-card-component)
+
 ## Contribuição
 
 Sinta-se à vontade para abrir problemas (issues) e enviar pull requests se desejar contribuir para algum dos projetos. Toda ajuda é bem-vinda!
