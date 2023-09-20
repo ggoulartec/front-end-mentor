@@ -19,7 +19,8 @@ main {
   height: auto;
   display: flex;
   gap: 30px;
-  width: 92vw;
+  justify-content: center;
+  align-items: center;
 }
 
 .section__title {
