@@ -21,7 +21,7 @@ Um componente de resumo de resultados. Feito com HTML e CSS.
 [Veja o Projeto 2](results-summary-component)
 
 ### Projeto 3: interactive-rating-component
-Um componente de classificação interativa. Feito com HTML e CSS.
+Um componente de classificação interativa. Feito com HTML, CSS e JS.
 
 ![Captura de Tela do Projeto 3](interactive-rating-component/public/design/desktop-design.jpg)
 ![Captura de Tela do Projeto 3](interactive-rating-component/public/design/mobile-design.jpg)
@@ -75,6 +75,14 @@ Um componente de cartão de perfil. Feito com HTML e CSS.
 ![Captura de Tela do Projeto 9](profile-card-component/public/design/mobile-design.jpg)
 
 [Veja o Projeto 9](profile-card-component)
+
+### Projeto 10: four-card-feature-section
+Uma seção de recursos de quatro cartões. Feito com HTML e CSS.
+
+![Captura de Tela do Projeto 10](four-card-feature-section/public/design/desktop-design.jpg)
+![Captura de Tela do Projeto 10](four-card-feature-section/public/design/mobile-design.jpg)
+
+[Veja o Projeto 10](four-card-feature-section)
 
 ## Contribuição
 
