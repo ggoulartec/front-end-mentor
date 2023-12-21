@@ -75,6 +75,7 @@ main {
 .accordion.active .accordion-content {
   display: block;
   margin-top: 20px;
+  color: #929292;
 }
 
 .card .accordion hr {
@@ -114,4 +115,39 @@ main {
 .attribution a {
   color: hsl(228, 45%, 44%);
   text-decoration: none;
+}
+
+@media (max-width: 425px) {
+  main {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    height: 50%;
+    width: 80%;
+    align-items: center;
+  }
+
+  .card {
+    padding: 25px;
+  }
+
+  .card h2 {
+    font-size: 2em;
+  }
+
+  .card img {
+    scale: 0.7;
+  }
+
+  .accordion-content {
+    font-size: 14px;
+  }
+
+  .accordion-header p {
+    width: 260px;
+  }
+
+  .card .accordion-header .accordion-toggle {
+    margin: 0 10px;
+  }
 }

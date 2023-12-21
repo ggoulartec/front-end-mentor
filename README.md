@@ -5,6 +5,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará uma coleção de
 ## Projetos
 
 ### Projeto 1: 3 column preview card component
+
 Uma demonstração de um componente de cartão de três colunas. Feito com HTML e CSS.
 
 ![Captura de Tela do Projeto 1](3-column%20preview%20card%20component/public/screenshots/desktop-design.png)
@@ -13,6 +14,7 @@ Uma demonstração de um componente de cartão de três colunas. Feito com HTML 
 [Veja o Projeto 1](3-column%20preview%20card%20component)
 
 ### Projeto 2: results-summary-component
+
 Um componente de resumo de resultados. Feito com HTML e CSS.
 
 ![Captura de Tela do Projeto 2](results-summary-component/public/design/desktop-design.jpg)
@@ -21,6 +23,7 @@ Um componente de resumo de resultados. Feito com HTML e CSS.
 [Veja o Projeto 2](results-summary-component)
 
 ### Projeto 3: interactive-rating-component
+
 Um componente de classificação interativa. Feito com HTML, CSS e JS.
 
 ![Captura de Tela do Projeto 3](interactive-rating-component/public/design/desktop-design.jpg)
@@ -29,6 +32,7 @@ Um componente de classificação interativa. Feito com HTML, CSS e JS.
 [Veja o Projeto 3](interactive-rating-component)
 
 ### Projeto 4: product-preview-card-component
+
 Um componente de cartão de visualização de produto. Feito com HTML e CSS.
 
 ![Captura de Tela do Projeto 4](product-preview-card-component/public/design/desktop-design.jpg)
@@ -37,6 +41,7 @@ Um componente de cartão de visualização de produto. Feito com HTML e CSS.
 [Veja o Projeto 4](product-preview-card-component)
 
 ### Projeto 5: qr-code-component
+
 Um componente de código QR. Feito com HTML e CSS.
 
 ![Captura de Tela do Projeto 5](qr-code-component/public/design/desktop-design.jpg)
@@ -45,6 +50,7 @@ Um componente de código QR. Feito com HTML e CSS.
 [Veja o Projeto 5](qr-code-component)
 
 ### Projeto 6: nft-preview-card-component
+
 Um componente de cartão de visualização de NFT. Feito com HTML e CSS.
 
 ![Captura de Tela do Projeto 6](nft-preview-card-component/public/design/desktop-design.jpg)
@@ -53,6 +59,7 @@ Um componente de cartão de visualização de NFT. Feito com HTML e CSS.
 [Veja o Projeto 6](nft-preview-card-component)
 
 ### Projeto 7: order-summary-component
+
 Um componente de resumo de pedido. Feito com HTML e CSS.
 
 ![Captura de Tela do Projeto 7](order-summary-component/public/design/desktop-design.jpg)
@@ -61,6 +68,7 @@ Um componente de resumo de pedido. Feito com HTML e CSS.
 [Veja o Projeto 7](order-summary-component)
 
 ### Projeto 8: stats-preview-card-component
+
 Um componente de cartão de visualização de estatísticas. Feito com HTML e CSS.
 
 ![Captura de Tela do Projeto 8](stats-preview-card-component/public/design/desktop-design.jpg)
@@ -69,6 +77,7 @@ Um componente de cartão de visualização de estatísticas. Feito com HTML e CS
 [Veja o Projeto 8](stats-preview-card-component)
 
 ### Projeto 9: profile-card-component
+
 Um componente de cartão de perfil. Feito com HTML e CSS.
 
 ![Captura de Tela do Projeto 9](profile-card-component/public/design/desktop-design.jpg)
@@ -77,14 +86,10 @@ Um componente de cartão de perfil. Feito com HTML e CSS.
 [Veja o Projeto 9](profile-card-component)
 
 ### Projeto 10: four-card-feature-section
-Uma seção de recursos de quatro cartões. Feito com HTML e CSS.
 
-![Captura de Tela do Projeto 10](four-card-feature-section/public/design/desktop-design.jpg)
-![Captura de Tela do Projeto 10](four-card-feature-section/public/design/mobile-design.jpg)
+Card component com accordion usando HTML, CSS e JS
 
-[Veja o Projeto 10](four-card-feature-section)
+![Captura de Tela do Projeto 10](/faq-accordion/design/desktop-design.jpg)
+![Captura de Tela do Projeto 10](/faq-accordion/design/mobile-design.jpg)
 
-## Contribuição
-
-Sinta-se à vontade para abrir problemas (issues) e enviar pull requests se desejar contribuir para algum dos projetos. Toda ajuda é bem-vinda!
-
+[Veja o Projeto 10](faq-accordion)
