@@ -38,7 +38,8 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  max-width: 37.5em;
+  max-width: 38em;
+  width: 40em;
   transform: translate(0%, 35%);
   background-color: white;
   padding: 40px;
@@ -100,6 +101,7 @@ main {
   border: none;
   cursor: pointer;
   transition: transform 0.3s ease-in-out;
+  margin-top: 15px;
 }
 
 .card .accordion.active .accordion-toggle {
