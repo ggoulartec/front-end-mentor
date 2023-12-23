@@ -98,7 +98,7 @@ Card component com accordion usando HTML, CSS e JS
 
 Card blog pessoal, com HTML e CSS
 
-![Captura de Tela do Projeto 10](/blog-preview-card/design/desktop-design.jpg)
-![Captura de Tela do Projeto 10](/blog-preview-card/design/mobile-design.jpg)
+![Captura de Tela do Projeto 11](/blog-preview-card/design/desktop-design.jpg)
+![Captura de Tela do Projeto 11](/blog-preview-card/design/mobile-design.jpg)
 
-[Veja o Projeto 10](blog-preview-card)
+[Veja o Projeto 11](blog-preview-card)
