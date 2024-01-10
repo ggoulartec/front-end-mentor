@@ -9,11 +9,46 @@
       sizes="32x32"
       href="./assets/images/favicon-32x32.png"
     />
-    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/style.css" />
     <title>Frontend Mentor | Age calculator app</title>
   </head>
   <body>
-    <main>Day DD Month MM Year YYYY -- years -- months -- days</main>
+    <main>
+      <div class="card__calculator">
+        <div class="input">
+          <label for="day">day</label>
+          <input type="number" id="day" min="1" max="31" required />
+        </div>
+        <div class="input">
+          <label for="month">month</label>
+          <input type="number" id="month" min="1" max="12" required />
+        </div>
+        <div class="input">
+          <label for="year">year</label>
+          <input type="number" id="year" min="1900" max="2024" required />
+        </div>
+      </div>
+      <div class="btn_calculator">
+        <hr />
+        <button onclick="calculaIdade()">
+          <img src="assets/images/icon-arrow.svg" alt="icon-arrow" />
+        </button>
+      </div>
+      <div id="result">
+        <div class="years">
+          <span>--</span>
+          <span>years</span>
+        </div>
+        <div class="months">
+          <span>--</span>
+          <span>months</span>
+        </div>
+        <div class="days">
+          <span>--</span>
+          <span>days</span>
+        </div>
+      </div>
+    </main>
 
     <footer>
       <div class="attribution">
@@ -23,5 +58,6 @@
         >. Coded by <a href="#">ggoulartec</a>.
       </div>
     </footer>
+    <script src="assets/scripts.js"></script>
   </body>
 </html>
