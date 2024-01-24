@@ -102,3 +102,12 @@ Card blog pessoal, com HTML e CSS
 ![Captura de Tela do Projeto 11](/blog-preview-card/design/mobile-design.jpg)
 
 [Veja o Projeto 11](blog-preview-card)
+
+### Projeto 12: social-links-profile
+
+Card pessoal com links sociais
+
+![Captura de Tela do Projeto 11](/social-links-profile/design/desktop-design.jpg)
+![Captura de Tela do Projeto 11](/social-links-profile/design/mobile-design.jpg)
+
+[Veja o Projeto 11](social-links-profile)
