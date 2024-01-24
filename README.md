@@ -102,12 +102,3 @@ Card blog pessoal, com HTML e CSS
 ![Captura de Tela do Projeto 11](/blog-preview-card/design/mobile-design.jpg)
 
 [Veja o Projeto 11](blog-preview-card)
-
-### Projeto 12: age-calculator-app
-
-Aplicativo calculadora de idade
-
-![Captura de Tela do Projeto 12](/age-calculator-app/design/desktop-completed.jpg)
-![Captura de Tela do Projeto 12](/age-calculator-app/design/mobile-design.jpg)
-
-[Veja o Projeto 12](age-calculator-app)
