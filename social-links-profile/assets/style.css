@@ -45,6 +45,11 @@ main {
     font-weight: 500;
 }
 
+.card .subtitle {
+    color: #ccc;
+    font-weight: 400;
+}
+
 .card .links a {
     background: #333333;
     border-radius: 5px;
