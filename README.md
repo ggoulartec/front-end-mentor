@@ -111,3 +111,12 @@ Card pessoal com links sociais
 ![Captura de Tela do Projeto 12](/social-links-profile/design/mobile-design.jpg)
 
 [Veja o Projeto 12](social-links-profile)
+
+### Projeto 13: single-price-grid-component
+
+Componente de preço simples em grade
+
+![Captura de Tela do Projeto 13](/single-price-grid-component/design/desktop-design.jpg)
+![Captura de Tela do Projeto 13](/single-price-grid-component/design/mobile-design.jpg)
+
+[Veja o Projeto 13](single-price-grid-component)
